@@ -3,7 +3,17 @@ entries:
   compose-frontend-v2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-13T17:09:37.081754456+05:30"
+    created: "2022-01-13T17:13:54.964379643+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 93baf83c6335902fec518dcef03a1bc6b945454779dd032caa750e1d2f422926
+    name: compose-frontend-v2
+    type: application
+    urls:
+    - compose-frontend-v2-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-13T17:13:54.957538572+05:30"
     description: A Helm chart for Kubernetes
     digest: 2b6db39000a507c9115f1db5c1b72d063dbb4bc06022336ca3708ce6b1c9a303
     name: compose-frontend-v2
@@ -11,4 +21,4 @@ entries:
     urls:
     - compose-frontend-v2-0.1.1.tgz
     version: 0.1.1
-generated: "2022-01-13T17:09:37.076590225+05:30"
+generated: "2022-01-13T17:13:54.953901292+05:30"
